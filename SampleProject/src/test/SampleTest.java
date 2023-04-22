@@ -8,6 +8,6 @@ public class SampleTest {
 	}
 
 	public String retrieveProduct() {
-		return "hj 상품조회2";
+		return "hj 상품조회3";
 	}
 }

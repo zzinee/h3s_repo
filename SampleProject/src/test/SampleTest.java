@@ -7,4 +7,7 @@ public class SampleTest {
 		System.out.println("hi sample");
 	}
 
+	public String retrieveProduct() {
+		return "hj 상품조회";
+	}
 }

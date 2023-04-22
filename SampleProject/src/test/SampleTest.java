@@ -10,4 +10,7 @@ public class SampleTest {
 		System.out.println("sjhan 상품 저장");
 	}
 
+	public String retrieveProduct() {
+		return "hj 상품조회3";
+	}
 }
